@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023casf",
+      "defaultValue": "2023casj",
       "required": "true",
       "disabled": "true"
     },
